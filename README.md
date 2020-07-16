@@ -22,8 +22,20 @@ ___this is italic and bold___
 
 `to view special`
 
-``` to see commands
+to see commands
 all different
-from other text ```
+from other text
 
-for lin [google](www.google.com)
+for link [google](www.google.com)
+
+- for list
+- bold list
+
+1. numbering
+2. number
+
+3. nested list
+    - added
+    - new
+- [x] checed
+- [ ] uncheck
